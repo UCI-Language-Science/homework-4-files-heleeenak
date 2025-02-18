@@ -159,6 +159,7 @@ score_unigrams("training_data", "test_data/test_sentences.txt", "test_data/sente
 
 # For some reason this is not passing the autograder, but when I checked what the results should be my results match
     # Maybe there is some error in my formatting? Does it not want the field names headings?
+    # Or maybe did I organize my files wrong? Should the sentence_scores.csv file not be under the test_data folder?
 
 
 # Do not modify the following line
