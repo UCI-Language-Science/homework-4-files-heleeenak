@@ -157,6 +157,10 @@ score_unigrams("training_data", "test_data/test_sentences.txt", "test_data/sente
     # Make it a rule never to give a child a book you would not read yourself .,-104.69385748118941
     # "The sky above the port was the color of television , tuned to a dead channel .",-inf
 
+# For some reason this is not passing the autograder, but when I checked what the results should be my results match
+    # Maybe there is some error in my formatting? Does it not want the field names headings?
+
+
 # Do not modify the following line
 if __name__ == "__main__":
     # You can write code to test your function here
